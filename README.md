@@ -7,5 +7,5 @@
         <img src="https://img.shields.io/jenkins/build?jobUrl=https%3A%2F%2Fci.extendedclip.com%2Fjob%2Fchatchat&label=dev%20build&logo=jenkins&logoColor=ffffff&style=for-the-badge" alt="Build Status"/>
     </a>
 </p>
-
+.
 Soon:tm:
